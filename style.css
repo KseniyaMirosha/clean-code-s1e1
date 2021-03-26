@@ -21,7 +21,7 @@ body {
   .image { text-align: center;
   }
 }
-.centered-main-page-element {
+.center-elem {
   display: block;
   width: 400px;
   margin: 0 auto 0;

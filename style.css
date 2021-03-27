@@ -162,12 +162,12 @@ body {
     display: none;
   }
   
-  ul .edit-mode input[type="text"] {
+  ul .li__edit__mode input[type="text"] {
     display: inline-block;
     width: 224px;
   }
   
-  ul .edit-mode label {
+  ul .li__edit__mode label {
     display: none;
   }
   
